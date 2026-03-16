@@ -74,7 +74,6 @@ UCDP data is not redistributed in this repository. See data/README.md for downlo
 1. Clone this repository
 2. Download UCDP GED v25.1 from https://ucdp.uu.se/downloads and place the CSV in data/
 3. Install dependencies: pip install -r requirements.txt
-4. Run notebooks in order: 01, 02, 03
 
 ## References
 
