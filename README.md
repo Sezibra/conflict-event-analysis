@@ -149,11 +149,6 @@ conflict-event-analysis/
 |----------|-------------|------------|
 | 01 Exploratory Analysis | Data loading, filtering, temporal patterns, regional breakdowns, perpetrator analysis, fatality distributions, conflict phase analysis, DBSCAN clustering | 1,764 events filtered, 9 spatial clusters, 8 figures |
 
-## How to Reproduce
-
-1. Download UCDP GED v25.1 from https://ucdp.uu.se/downloads/ and place the CSV in `data/`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook: `notebooks/01_exploratory_analysis.ipynb`
 
 ## Key References
 
